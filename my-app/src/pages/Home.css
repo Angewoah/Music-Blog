@@ -1,0 +1,6 @@
+.home-image {
+    background-image: url('../assets/record-shelf-vinyl-wallpaper.jpg'); /* Update with the correct path */
+    height: 300px; /* Adjust based on your needs */
+    background-size: cover; /* Cover the entire div */
+    background-position: center; /* Center the background image */
+}
